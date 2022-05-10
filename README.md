@@ -7,12 +7,20 @@
 ![Sheet 6](https://user-images.githubusercontent.com/62763142/167666393-d54c809b-37f8-4d62-ad8d-6b9da1124ba9.png)
 ![Sheet 7](https://user-images.githubusercontent.com/62763142/167666432-2c9291a1-3e86-4b73-be71-ebf9ca34a0af.png)
 ![Sheet 8](https://user-images.githubusercontent.com/62763142/167666465-040ae398-08f3-4e75-a67c-90d0de9d58a0.png)
-This repository represents "HR Analytics - Absenteeism".
+
+# This repository represents "HR Analytics - Absenteeism".
+
 With the help of this project we can analyze the absence report of the orgnization and can find the reason befind the absence.
-⏳ Dataset
-Download the dataset for custom training
+
+# ⏳ Dataset
+
+Download the dataset from the below link
 https://drive.google.com/drive/folders/1HRRC23RoCI0MwhV3P_cUz47TNOg4R-_2
-🛠️ Requirements
+
+# 🛠️ Requirements
+
 Tableau
-Contributors 
+
+# Contributors 
+
 Suman Das
