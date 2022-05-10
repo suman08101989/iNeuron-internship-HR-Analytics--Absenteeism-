@@ -1,4 +1,4 @@
-# iNeuron-internship-HR-Analytics--Absenteeism-
+# HR-Analytics-Absenteeism
 ![Sheet 1](https://user-images.githubusercontent.com/62763142/167666206-6176b2e9-b0ac-4eec-96df-ce6f122b668e.png)
 ![Sheet 2](https://user-images.githubusercontent.com/62763142/167666241-7b5e1074-d2f4-4c64-b2f4-091779a34851.png)
 ![Sheet 3](https://user-images.githubusercontent.com/62763142/167666280-71e7b980-209d-4b51-a32b-dd6c11b8ced0.png)
